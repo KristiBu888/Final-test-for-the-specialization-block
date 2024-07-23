@@ -1,0 +1,13 @@
+Cats,Lucy,Sit,Pounce 
+Cats,Happy,Sit,Pounce,Scratch 
+Cats,Faris,Meow,Scratch,Jump	
+Dogs,Natsu,Sit,Stay,Fetch,Roll
+Dogs,Gray,Sit,Paw,Bark	
+Dogs,Wendy,Sit,Stay,Roll	
+Donkeys,Usopp,Walk,Carry,Load,Bray	
+Donkeys,Robin,Walk,Bray,Kick	
+Hamsters,Erza,Roll,Hide	
+Hamsters,Elfman,Roll,Spin	
+Horses,Luffy,Trot,Canter,Gallop	
+Horses,Nami,Trot,Canter	
+Horses,Chopper,Trot,Jump,Gallop	
